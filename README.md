@@ -3,8 +3,8 @@
 ## Instructions
 
 Press F5 to start/pause. If paused, pressing start will continue right where it was left off.
-Run the bot alongside notificationSystem.exe to enable the following alerts:
-  - Other players (friend, guild member, stranger) enter your map
+Run the bot alongside notificationSystem.exe to enable any or all of the following alerts:
+  - Other players (friend, guild member, stranger) enter your map. (Can enable/disable individually)
   - Elite boss spawned
   - Rune spawned
   - Lie Detector
