@@ -14,4 +14,4 @@ Run the bot alongside notificationSystem.exe to enable any or all of the followi
 - Use windowed mode.
 - Minimap should be open at all times. The bot tracks your yellow dot to determine map positioning
 - Skill tray should be open and have all relevant skills mapped on there for visible cooldowns
-- For best results detecting LDs, turn off background in game versions that support it
+- For best results detecting modern LDs, turn off background in game versions that support it
